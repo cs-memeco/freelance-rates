@@ -1,0 +1,2 @@
+# freelance-rates
+Freelance Rates
